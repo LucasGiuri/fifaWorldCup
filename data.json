@@ -1,0 +1,108 @@
+{
+  "result": [
+    {
+      "matchId": "1",
+      "teams": [
+        {
+          "id": "URU",
+          "country": "Uruguay"
+        },
+        {
+          "id": "ARG",
+          "country": "Argentina"
+        }
+      ]
+    },
+    {
+      "matchId": "2",
+      "teams": [
+        {
+          "id": "FRA",
+          "country": "France"
+        },
+        {
+          "id": "GER",
+          "country": "Germany"
+        }
+      ]
+    },
+    {
+      "matchId": "3",
+      "teams": [
+        {
+          "id": "ESP",
+          "country": "Spain"
+        },
+        {
+          "id": "CRO",
+          "country": "Croatia"
+        }
+      ]
+    },
+    {
+      "matchId": "4",
+      "teams": [
+        {
+          "id": "BRA",
+          "country": "Brazil"
+        },
+        {
+          "id": "MEX",
+          "country": "Mexico"
+        }
+      ]
+    },
+    {
+      "matchId": "5",
+      "teams": [
+        {
+          "id": "ENG",
+          "country": "England"
+        },
+        {
+          "id": "BEL",
+          "country": "Belgium"
+        }
+      ]
+    },
+    {
+      "matchId": "6",
+      "teams": [
+        {
+          "id": "JAP",
+          "country": "Japan"
+        },
+        {
+          "id": "RUS",
+          "country": "Russia"
+        }
+      ]
+    },
+    {
+      "matchId": "7",
+      "teams": [
+        {
+          "id": "SWE",
+          "country": "Sweden"
+        },
+        {
+          "id": "COL",
+          "country": "Colombia"
+        }
+      ]
+    },
+    {
+      "matchId": "8",
+      "teams": [
+        {
+          "id": "ITA",
+          "country": "Italy"
+        },
+        {
+          "id": "CHI",
+          "country": "Chile"
+        }
+      ]
+    }
+  ]
+}

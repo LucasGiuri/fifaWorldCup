@@ -1,0 +1,133 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Input basic snapshot renders 1`] = `
+.c0 {
+  width: 35px;
+  height: 35px;
+  text-align: center;
+  border: 1px solid #696969;
+  box-shadow: none;
+  border-radius: 50%;
+}
+
+.c0::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.c0::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.c0:focus {
+  outline: none;
+}
+
+<input
+  className="c0"
+  min="0"
+  onChange={[MockFunction]}
+  type="number"
+/>
+`;
+
+exports[`Input snapshot renders with input 1`] = `
+.c0 {
+  width: 35px;
+  height: 35px;
+  text-align: center;
+  border: 1px solid #696969;
+  box-shadow: none;
+  border-radius: 50%;
+}
+
+.c0::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.c0::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.c0:focus {
+  outline: none;
+}
+
+<input
+  className="c0"
+  min="0"
+  onChange={[MockFunction]}
+  type="number"
+  value="fakeValue"
+/>
+`;
+
+exports[`Input snapshot renders with isDisabled 1`] = `
+.c0 {
+  width: 35px;
+  height: 35px;
+  text-align: center;
+  border: 1px solid #696969;
+  box-shadow: none;
+  border-radius: 50%;
+}
+
+.c0::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.c0::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.c0:focus {
+  outline: none;
+}
+
+<input
+  className="c0"
+  disabled={true}
+  min="0"
+  onChange={[MockFunction]}
+  type="number"
+/>
+`;
+
+exports[`Input snapshot renders with isDisabled and value 1`] = `
+.c0 {
+  width: 35px;
+  height: 35px;
+  text-align: center;
+  border: 1px solid #696969;
+  box-shadow: none;
+  border-radius: 50%;
+}
+
+.c0::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.c0::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.c0:focus {
+  outline: none;
+}
+
+<input
+  className="c0"
+  disabled={true}
+  min="0"
+  onChange={[MockFunction]}
+  type="number"
+  value="fakeValue"
+/>
+`;

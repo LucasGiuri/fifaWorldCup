@@ -1,0 +1,108 @@
+{
+  "result": [
+    {
+      "matchId": "1",
+      "teams": [
+        {
+          "id": "-",
+          "country": "-"
+        },
+        {
+          "id": "-",
+          "country": "-"
+        }
+      ]
+    },
+    {
+      "matchId": "2",
+      "teams": [
+        {
+          "id": "-",
+          "country": "-"
+        },
+        {
+          "id": "-",
+          "country": "-"
+        }
+      ]
+    },
+    {
+      "matchId": "3",
+      "teams": [
+        {
+          "id": "-",
+          "country": "-"
+        },
+        {
+          "id": "-",
+          "country": "-"
+        }
+      ]
+    },
+    {
+      "matchId": "4",
+      "teams": [
+        {
+          "id": "-",
+          "country": "-"
+        },
+        {
+          "id": "-",
+          "country": "-"
+        }
+      ]
+    },
+    {
+      "matchId": "5",
+      "teams": [
+        {
+          "id": "-",
+          "country": "-"
+        },
+        {
+          "id": "-",
+          "country": "-"
+        }
+      ]
+    },
+    {
+      "matchId": "6",
+      "teams": [
+        {
+          "id": "-",
+          "country": "-"
+        },
+        {
+          "id": "-",
+          "country": "-"
+        }
+      ]
+    },
+    {
+      "matchId": "7",
+      "teams": [
+        {
+          "id": "-",
+          "country": "-"
+        },
+        {
+          "id": "-",
+          "country": "-"
+        }
+      ]
+    },
+    {
+      "matchId": "8",
+      "teams": [
+        {
+          "id": "-",
+          "country": "-"
+        },
+        {
+          "id": "-",
+          "country": "-"
+        }
+      ]
+    }
+  ]
+}
